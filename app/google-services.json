@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054386759793",
+    "project_id": "instamo-c566d",
+    "storage_bucket": "instamo-c566d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054386759793:android:7c59812bc906e5b70853d0",
+        "android_client_info": {
+          "package_name": "com.example.instamo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054386759793-hh59c7gk0qb39227frvh9mjgrnj3dsu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8mtzUTHpppBU4KeTBItBD3Ko7kcTcrPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054386759793-hh59c7gk0qb39227frvh9mjgrnj3dsu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

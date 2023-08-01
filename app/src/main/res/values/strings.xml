@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Instamo</string>
+    <string name="title_activity_account_setting">AccountSetting</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="log_out">Log Out</string>
+    <string name="bio">Bio</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full name</string>
+    <string name="change_image">Change Image</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="first_post">first post</string>
+    <string name="delete">Delete</string>
+    <string name="_0">0</string>
+    <string name="seen_by">Seen By</string>
+    <string name="follow">Follow</string>
+    <string name="fullname">FullName</string>
+    <string name="notifications">Notifications</string>
+    <string name="post_details">Post Details</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="posts">Posts</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="post">Post</string>
+    <string name="profile">Profile</string>
+    <string name="from">from</string>
+    <string name="meta">Meta</string>
+    <string name="add_a_comment">Add a comment</string>
+    <string name="new_post">New Post</string>
+    <string name="write_a_caption">Write a Caption</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create new account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="username_email_or_mobile_number">Username, email or mobile number</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="add_story">Add Story</string>
+</resources>
